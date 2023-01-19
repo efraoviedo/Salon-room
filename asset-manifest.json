@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Salon-room/static/css/main.b0b61d86.css",
+    "main.js": "/Salon-room/static/js/main.5a61d21c.js",
+    "static/media/noviaRamo.png": "/Salon-room/static/media/noviaRamo.b3ef18c61b0b06d16589.png",
+    "static/media/rubia9.png": "/Salon-room/static/media/rubia9.94d87168dce92c504c73.png",
+    "static/media/rubiondas2.png": "/Salon-room/static/media/rubiondas2.0f613c6acbe2a6b14e69.png",
+    "static/media/peinadondas2.png": "/Salon-room/static/media/peinadondas2.a2dd9cefbebe89b6efc5.png",
+    "static/media/cortemechon2.png": "/Salon-room/static/media/cortemechon2.4a4b9ddbe034aaf35878.png",
+    "static/media/niña16.png": "/Salon-room/static/media/niña16.fb53651109b51edbe33f.png",
+    "static/media/moño1.jpg": "/Salon-room/static/media/moño1.1713898b7f5c916e4b08.jpg",
+    "static/media/girl1.jpg": "/Salon-room/static/media/girl1.9b77b4782c6ea28e6506.jpg",
+    "static/media/frontpage1.png": "/Salon-room/static/media/frontpage1.e37fc7d7430a77da5190.png",
+    "static/media/niña1.jpg": "/Salon-room/static/media/niña1.836392bf3d269fa2b68c.jpg",
+    "static/media/liso22.png": "/Salon-room/static/media/liso22.b667fadfedbea2fce7c8.png",
+    "static/media/rubia3.jpg": "/Salon-room/static/media/rubia3.5bf0f35cf15a6a98250b.jpg",
+    "static/media/girl3.jpg": "/Salon-room/static/media/girl3.e0951f8073ed6312d102.jpg",
+    "static/media/girl2.jpg": "/Salon-room/static/media/girl2.40069b0e62f578c1c436.jpg",
+    "static/media/redhair.jpg": "/Salon-room/static/media/redhair.1c96309a75760f978ab8.jpg",
+    "static/media/rubia2.jpg": "/Salon-room/static/media/rubia2.7e4aeba06d9c68a8f187.jpg",
+    "static/media/liso11.png": "/Salon-room/static/media/liso11.260896ef5565b580929d.png",
+    "static/media/pinkhair.jpg": "/Salon-room/static/media/pinkhair.57ff23a5e233194136e7.jpg",
+    "static/media/rubia1.jpg": "/Salon-room/static/media/rubia1.f3c28bfee19a3a80d285.jpg",
+    "static/media/corteMujer.jpg": "/Salon-room/static/media/corteMujer.fbb526cc5dd3fa30a459.jpg",
+    "static/media/frontpage.jpg": "/Salon-room/static/media/frontpage.7a9354e2d60b15ed7568.jpg",
+    "static/media/brownhair1.webp": "/Salon-room/static/media/brownhair1.125888efa861fcb7ba98.webp",
+    "static/media/rubia5.jpeg": "/Salon-room/static/media/rubia5.26071cc46fe9dfff8d2e.jpeg",
+    "static/media/rubia4.jpg": "/Salon-room/static/media/rubia4.374bc08000159bd718b7.jpg",
+    "static/media/rubia6.jpg": "/Salon-room/static/media/rubia6.2cca47d864810e991ff7.jpg",
+    "index.html": "/Salon-room/index.html",
+    "main.b0b61d86.css.map": "/Salon-room/static/css/main.b0b61d86.css.map",
+    "main.5a61d21c.js.map": "/Salon-room/static/js/main.5a61d21c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b61d86.css",
+    "static/js/main.5a61d21c.js"
+  ]
+}

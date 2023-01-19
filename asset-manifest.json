@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Salon-room/static/css/main.b0b61d86.css",
-    "main.js": "/Salon-room/static/js/main.5a61d21c.js",
+    "main.css": "/Salon-room/static/css/main.81882d21.css",
+    "main.js": "/Salon-room/static/js/main.7afa74b0.js",
     "static/media/noviaRamo.png": "/Salon-room/static/media/noviaRamo.b3ef18c61b0b06d16589.png",
     "static/media/rubia9.png": "/Salon-room/static/media/rubia9.94d87168dce92c504c73.png",
     "static/media/rubiondas2.png": "/Salon-room/static/media/rubiondas2.0f613c6acbe2a6b14e69.png",
@@ -28,11 +28,11 @@
     "static/media/rubia4.jpg": "/Salon-room/static/media/rubia4.374bc08000159bd718b7.jpg",
     "static/media/rubia6.jpg": "/Salon-room/static/media/rubia6.2cca47d864810e991ff7.jpg",
     "index.html": "/Salon-room/index.html",
-    "main.b0b61d86.css.map": "/Salon-room/static/css/main.b0b61d86.css.map",
-    "main.5a61d21c.js.map": "/Salon-room/static/js/main.5a61d21c.js.map"
+    "main.81882d21.css.map": "/Salon-room/static/css/main.81882d21.css.map",
+    "main.7afa74b0.js.map": "/Salon-room/static/js/main.7afa74b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0b61d86.css",
-    "static/js/main.5a61d21c.js"
+    "static/css/main.81882d21.css",
+    "static/js/main.7afa74b0.js"
   ]
 }

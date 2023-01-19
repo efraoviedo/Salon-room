@@ -56,7 +56,7 @@ const Header = () => {
   return (
     <div
       className="z-50 flex justify-between items-center w-full h-16 
-      drop-shadow-2xl text-gray-800 font-bold bg-pink-50 px-14 fixed pt-12 sm:pt-16 pb-24"
+      drop-shadow-2xl text-gray-800 font-bold bg-gradient-to-b from-pink-50 to-pink-100 px-14 fixed pt-12 sm:pt-16 pb-24"
     >
       <div>
         <div className="socket scale-50">
